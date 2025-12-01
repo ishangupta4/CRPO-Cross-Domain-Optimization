@@ -16,6 +16,7 @@ CRPO-Cross-Domain-Optimization/
 │   ├── crpo_baseline.py      # Single-domain CRPO implementation
 │   ├── evaluation_reward.py  # Evaluation using reward models
 │   ├── data_loader.py        # Data loading and preprocessing
+│   ├── config.py             # Centralized configuration
 │   └── ...                   # Other utility scripts
 ├── test_groq.py        # Script to verify Groq API connection
 ├── requirements.txt    # Python dependencies
